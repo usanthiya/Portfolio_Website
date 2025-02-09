@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Income Expense Tracker",
+    "desc": "Implemented a user-friendly financial management tool that allows individuals to monitor and analyse their income and expenses efficiently",
+    "image": "IncomeExpenseTracker",
+    "links": {
+      "view": "https://income-exp.netlify.app/",
+      "code": "https://github.com/usanthiya/Income_Expense_Tracker"
+    }
+  },
+  {
+    "name": "SnapSafari: Explore the world through images",
+    "desc": "It lets you search for any desired image. You can enter your search query and receive results accompanied by a description.",
+    "image": "SnapSafari",
+    "links": {
+      "view": "https://snapsafari.netlify.app/",
+      "code": "https://github.com/usanthiya/SnapSafari"
+    }
+  },
+  {
+    "name": "Email Validator",
+    "desc": "A robust and efficient tool designed to verify the validity of email addresses in various applications, ensuring data accuracy and reliability.",
+    "image": "Email_Validator",
+    "links": {
+      "view": "https://email-confirm.netlify.app/",
+      "code": "https://github.com/usanthiya/email_validator"
+    }
+  }
+]
